@@ -61,9 +61,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/roshnikutty/',
+        linkedin: 'roshnikutty',
         twitter: 'rkutty',
-        github: 'https://github.com/roshnikutty',
+        github: 'roshnikutty',
     },
 };
 module.exports = siteConfig;
