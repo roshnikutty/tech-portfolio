@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Roshni Kutty', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    tagline: 'Full-stack software engineer',
     profilePhoto: 'img/profile.png',
     url: 'https://roshnikutty.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -42,7 +42,7 @@ const siteConfig = {
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} Your Name Here`,
+    copyright: `Copyright © ${new Date().getFullYear()} Roshni Kutty`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
