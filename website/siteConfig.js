@@ -21,7 +21,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'roshnikutty'
+    organizationName: 'roshnikutty',
    
     // For no header links in the top nav bar -> headerLinks: [],
     headerLinks: [
