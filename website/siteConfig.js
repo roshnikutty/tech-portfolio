@@ -65,5 +65,5 @@ const siteConfig = {
         twitter: 'rkutty',
         github: 'https://github.com/roshnikutty',
     },
-
+};
 module.exports = siteConfig;
